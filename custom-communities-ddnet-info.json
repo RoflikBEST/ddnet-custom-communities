@@ -788,7 +788,10 @@
 					}
 				]
 			},
-			"contact_urls": []
+			"contact_urls": [
+				"https://verseblock.fun",
+				"https://discord.gg/WB82z8K9ge"
+			]
 		}
 	]
 }
